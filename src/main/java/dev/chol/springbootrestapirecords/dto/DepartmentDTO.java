@@ -1,4 +1,4 @@
 package dev.chol.springbootrestapirecords.dto;
 
-public class DepartmentDTO {
+public record DepartmentDTO(Long id, String name, String location) {
 }
