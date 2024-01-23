@@ -8,3 +8,5 @@ To run the example use:
 ```bash
 ./mvnw spring-boot:run
 ```
+
+It'll be running at http://localhost:8080/, use http://localhost:8080/employees to list employees and http://localhost:8080/departments
